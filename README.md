@@ -2,10 +2,13 @@
 
 ## About me 😎
 
-I am Raffael ! I love working on new projects, either dev oriented or research oriented.
-I am fond of Artificial Intelligence, and in particular Reinforcement Learning ! 🤖
+I'm Raffael ! I love working on new projects, either dev oriented or research oriented.
 
-You can reach me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/).
+I'm fond of Artificial Intelligence, and in particular Reinforcement Learning ! 🤖
+
+## How to reach me 💌
+
+It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), see you soon ! 😉
 
 <!--
 **Raffaelbdl/Raffaelbdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
