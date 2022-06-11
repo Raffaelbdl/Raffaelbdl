@@ -1,4 +1,11 @@
-# Welcome to my GitHub profile !
+# Welcome to my GitHub profile ! 🥳
+
+## About me 😎
+
+I am Raffael ! I love working on new projects, either dev oriented or research oriented.
+I am fond of Artificial Intelligence, and in particular Reinforcement Learning ! 🤖
+
+You can reach me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/).
 
 <!--
 **Raffaelbdl/Raffaelbdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
