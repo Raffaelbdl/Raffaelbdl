@@ -6,9 +6,17 @@ I'm Raffael ! I love working on new projects, either dev oriented or research or
 
 I'm fond of Artificial Intelligence, and in particular Reinforcement Learning ! 🤖
 
+My goal is to understand intelligence one day, or at least to make an AI that looks intelligent :stuck_out_tongue_closed_eyes:
+
 ## How to reach me 💌
 
 It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), see you soon ! 😉
+
+## My current projects :question:
+
+My current goal is to learn as many things as I can while I am studying.
+
+I am also working on the [School Idol Trainer](https://github.com/Raffaelbdl/school-idol-training) that is more dev-oriented than research, but I learn a lot from it !
 
 <!--
 **Raffaelbdl/Raffaelbdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
