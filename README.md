@@ -16,7 +16,7 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 
 My current goal is to learn as many things as I can while I am studying.
 
-I am also working on the [School Idol Trainer](https://github.com/Raffaelbdl/school-idol-training) that is more dev-oriented than research, but I learn a lot from it !
+My main project right now is (Hyperbolic Neural Networks with dm-haiku)[https://github.com/Raffaelbdl/hyperbolic-nn-haiku].
 
 <!--
 **Raffaelbdl/Raffaelbdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
