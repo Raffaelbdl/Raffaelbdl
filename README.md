@@ -104,11 +104,12 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 
 - [Space Escapee(s)](https://raffaelbdl.itch.io/space-escapees)
   
+    Group project where I was mostly in charge of the programming. Story of two astronauts stuck in a spacecraft just before the arrival of asteroids. Will you be able to espace safely, and will you choose to save your crewmate ?
+
 - [Foosh Plop](https://play.google.com/store/apps/details?id=com.RWISGroup7.FooshPlop)
 
-  Group project where I was mostly in charge of the programming and all of the graphics. Game about fishing using the gyroscoping sensor of the phone.
+    Group project where I was mostly in charge of the programming and all of the graphics. Game about fishing using the gyroscoping sensor of the phone.
 
-    Group project where I was mostly in charge of the programming. Story of two astronauts stuck in a spacecraft just before the arrival of asteroids. Will you be able to espace safely, and will you choose to save your crewmate ?
 </details>
 
 
