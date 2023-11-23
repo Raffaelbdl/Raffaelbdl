@@ -96,7 +96,7 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 
 <p></p>
 
-<details><summary> Unity Games </summary>
+<details><summary> Unity Games </summary>
 
 - [[DEMO] Rune Dungeon](https://raffaelbdl.itch.io/demo-rune-dungeon)
 
@@ -109,7 +109,6 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 - [Foosh Plop](https://play.google.com/store/apps/details?id=com.RWISGroup7.FooshPlop)
 
     Group project where I was mostly in charge of the programming and all of the graphics. Game about fishing using the gyroscoping sensor of the phone.
-
 </details>
 
 
