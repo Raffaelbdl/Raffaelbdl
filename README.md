@@ -111,7 +111,7 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 
 <details><summary> School Projects </summary>
 
-- [Measuring the activity of people thank to smartphone data](https://github.com/Raffaelbdl/Pole-IA-1.03)
+- [Measuring the activity of people using smartphone data](https://github.com/Raffaelbdl/Pole-IA-1.03)
     
     Group project in which we evaluate many methods to understand the activity of people with smartphone data.
 
