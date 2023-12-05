@@ -41,6 +41,10 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 ## Overview of my projects
 
 <details><summary> Reinforcement Learning </summary>
+    
+- [FLAX_RL](https://github.com/Raffaelbdl/flax_rl)
+    
+    Yet another RL library build with FLAX modules. 
 
 - [Vectorization of PettingZoo ParallelEnv](https://github.com/Raffaelbdl/vectorization_parallel_env) 
 
