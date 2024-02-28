@@ -3,10 +3,10 @@
 <!-- <p align="center" style="bold"> Looking for a position in Machine Learning applied to video games or in video game programming.</p> -->
 
 ## About me 😎
-My name is Raffael, I am an engineering student with a passion for AI and Game Programming. I like to prototype a lot of new ideas, and learn new skills while doing so. 
+My name is Raffael, I am an engineering student with a passion for Machine Learning and Game Programming. I like to prototype a lot of new ideas, and learn new skills while doing so. 
 
 - 🎓 Master of Engineering at **Paris-Saclay University / CentraleSupélec**
-- 🎓 Double degree, Master of Engineering at **Keio University**
+- 🎓 Double degree, Master of Science in Engineering at **Keio University**
 - 🎯 My goal is to create experiences for people, with either Machine Learning or Game Development.
 
 ### How to reach me 💌
