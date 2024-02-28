@@ -35,7 +35,7 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp&nbsp </a>
     </p>
 
-- Googling stuff
+- <a href="https://www.google.com/search?q=dog&oq=dog&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQIxgTGCcYgAQYigUyDggCECMYExgnGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg80gEIMzgwM2owajSoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/COxitqgJr1sJnIDe8-jiKhxDx1FrYbtRHKJ9z_hELisAlapwE9LUPh6fcXIfb5vwpbMl4xl9H9TRFPc5NOO8Sb3VSgIBrfRYvW6cUA" alt="google" width="40" height="40" style="background-color:white;"/> 
 
 
 ## Overview of my projects
