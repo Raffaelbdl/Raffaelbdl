@@ -37,11 +37,3 @@ It is easier to find me on [Linkedin](https://www.linkedin.com/in/raffaelbdl/), 
 
 - <a href="https://www.google.com/search?q=dog&oq=dog&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIOCAEQIxgTGCcYgAQYigUyDggCECMYExgnGIAEGIoFMgcIAxAAGIAEMgcIBBAAGIAEMgYIBRBFGDwyBggGEEUYPTIGCAcQRRg80gEIMzgwM2owajSoAgCwAgA&sourceid=chrome&ie=UTF-8" target="_blank" rel="noreferrer"> <img src="https://lh3.googleusercontent.com/COxitqgJr1sJnIDe8-jiKhxDx1FrYbtRHKJ9z_hELisAlapwE9LUPh6fcXIfb5vwpbMl4xl9H9TRFPc5NOO8Sb3VSgIBrfRYvW6cUA" alt="google" width="40" height="40" style="background-color:white;"/> 
 
-
-
-If you have reached here, I sincerly thank you for taking the time to read my profile.
-
-What I show here is the top of the iceberg of all the prototypes that I would rather not show 😂. 
-
-I spend most of my time trying new ideas, constantly learning new things and diving deep into new fields. Because that is what drives me.
-</details>
